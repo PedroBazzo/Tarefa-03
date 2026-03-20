@@ -75,7 +75,9 @@ Este projeto foi desenvolvido como atividade prática para a disciplina de Desen
 ## 👨‍💻 Autores
 
 Adenilson Turis Alves
+
 Filipe Sameti Moraes Binja
+
 Pedro Ernesto Provasi Bazzo
 
 ---
